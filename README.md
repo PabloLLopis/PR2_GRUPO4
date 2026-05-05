@@ -17,4 +17,3 @@ Este es el repositorio donde vamos a subir y actualizar los códigos utilizados 
 - Paula Carcel Vércher
 
 
-### Preparacion del entorno
