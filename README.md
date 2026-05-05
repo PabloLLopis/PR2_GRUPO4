@@ -15,3 +15,6 @@ Este es el repositorio donde vamos a subir y actualizar los códigos utilizados 
 - Joseba Nares Villanueva  
 - Jaume Gimeno Ponz
 - Paula Carcel Vércher
+
+
+### Preparacion del entorno
