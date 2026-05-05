@@ -1,5 +1,5 @@
 # PR2_GRUPO4
-Este es el repositorio donde vamos a subir y actualizar los códigos utilizados en la asignatura de proyecto relacionado con RoboDK, MQTT, SQL ...
+Este es el repositorio donde vamos a subir y actualizar los códigos utilizados en la asignatura de proyecto relacionado con RoboDK, MQTT ...
 
 
 <p align="center">
